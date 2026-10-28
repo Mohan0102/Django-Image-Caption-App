@@ -1,0 +1,6 @@
+Django>=4.2,<6
+djangorestframework>=3.14
+django-cors-headers>=4.3
+tensorflow>=2.12
+pillow
+numpy
